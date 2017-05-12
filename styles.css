@@ -62,3 +62,7 @@ img{
 p{
 	width: 50%;
 }
+
+mark {
+	background-color: #F8C473;
+}
