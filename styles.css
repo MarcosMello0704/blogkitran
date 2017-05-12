@@ -1,0 +1,58 @@
+section div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+body {
+	background:url('kitran.jpg');
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+}
+header {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+section {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+}
+
+.content {
+	background-color: tomato;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	margin: 4px;
+	width: 400px;
+	height: 400px;
+
+}
+
+ .div {
+	background-color: #800080;
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	margin: 3px;
+	width: 	110px;
+	height: 110px;
+}
+
+img{
+	width: 110px;
+	height: 110px;
+}
